@@ -1,0 +1,2 @@
+1.1 = version_of_page.version_of_QR_code
+
